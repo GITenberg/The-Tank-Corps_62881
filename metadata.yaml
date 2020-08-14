@@ -1,5 +1,5 @@
 _repo: The-Tank-Corps_62881
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Elles, Hugh Jamieson
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52144'
     url: http://www.gutenberg.org/2009/agents/52144
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Elles
+covers:
+- cover_type: archival
+  image_path: 62881-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Williams-Ellis, Clough
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '52171'
     url: http://www.gutenberg.org/2009/agents/52171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62881#The-Tank-Corps
 gutenberg_issued: '2020-08-08'
 gutenberg_type: Text
 identifiers:
