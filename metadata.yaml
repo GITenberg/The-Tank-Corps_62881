@@ -1,0 +1,47 @@
+_repo: The-Tank-Corps_62881
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Elles, Hugh Jamieson
+    alias: Elles, Hugh, Sir
+    birthdate: 1880
+    deathdate: 1945
+    gutenberg_agent_id: '52144'
+    url: http://www.gutenberg.org/2009/agents/52144
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Elles
+creator:
+  authors:
+  - agent_name: Williams-Ellis, Clough
+    aliases:
+    - Williams-Ellis, Bertram Clough
+    - Williams-Ellis, C. (Clough)
+    birthdate: 1883
+    deathdate: 1978
+    gutenberg_agent_id: '35635'
+    url: http://www.gutenberg.org/2009/agents/35635
+    wikipedia: https://en.wikipedia.org/wiki/Clough_Williams-Ellis
+  - agent_name: Williams-Ellis, Amabel
+    aliases:
+    - Strachey, Amabel
+    - Williams-Ellis, Mary Amabel Nassau Strachey
+    birthdate: 1894
+    deathdate: 1984
+    gutenberg_agent_id: '52171'
+    url: http://www.gutenberg.org/2009/agents/52171
+description: ''
+gutenberg_issued: '2020-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62881'
+  lccn: '20003588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tanks (Military science)'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Royal Tank Corps'
+- GITenberg
+title: The Tank Corps
+url: http://www.gutenberg.org/ebooks/62881
